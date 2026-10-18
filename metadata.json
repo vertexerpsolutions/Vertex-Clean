@@ -1,0 +1,8 @@
+{
+  "name": "Remix Vertex ERP Ultimate v1.0 – Deployment",
+  "description": "Enterprise ERP \u0026 Management Platform featuring modular business engines, Gold Features (VGF-01 First Run Setup Wizard), System Engines, and Developer Tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
